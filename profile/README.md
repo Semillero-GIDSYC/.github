@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="GIDSYC Banner" width="100%" style="border-radius: 15px;">
+  <img src="assets/horizontal.png" alt="GIDSYC Banner" width="100%" style="border-radius: 15px;">
 
   # Semillero GIDSYC
 
